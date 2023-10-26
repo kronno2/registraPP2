@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "juan",
+      "username": "juanperez",
+      "password": "duoc",
+      "role": "alumno",
+      "isactive": true
+    },
+    {
+      "id": 2,
+      "name": "smith",
+      "username": "psmith",
+      "password": "pduoc",
+      "role": "profesor",
+      "isactive": true
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "",
+      "role": "",
+      "id": 3
+    },
+    {
+      "name": "carlos",
+      "username": "carlosd",
+      "password": "1234",
+      "role": "Alumno",
+      "id": 4
+    },
+    {
+      "name": "katary",
+      "username": "klop",
+      "password": "1234",
+      "role": "",
+      "id": 5
+    },
+    {
+      "name": "roberto",
+      "username": "ropp",
+      "password": "1234",
+      "role": "",
+      "id": 6
+    },
+    {
+      "name": "qqqqqq",
+      "username": "qqqqqqq",
+      "password": "1234",
+      "role": "Alumno",
+      "id": 7
+    },
+    {
+      "name": "yyyyy",
+      "username": "yyyyy",
+      "password": "pduoc",
+      "role": "",
+      "id": 8
+    },
+    {
+      "name": "kkkkk",
+      "username": "kkkkk",
+      "password": "1234",
+      "role": "",
+      "id": 9
+    },
+    {
+      "name": "kkkk",
+      "username": "kkkkkkk",
+      "password": "1234",
+      "role": "",
+      "id": 10
+    }
+  ]
+}
